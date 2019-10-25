@@ -2,4 +2,4 @@
 Proyecto de software libre - primer corte
 
 # Autores: 
-Fabian Pico, Osvaldo Oyaga, José Guerrero
+Fabian Pico, Osvaldo Oyaga, José Guerrero(Asesor)
